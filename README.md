@@ -1,5 +1,7 @@
 # First mandatory assignment: baby's first machine learning
 
+Important: to do this assignment, make sure you're in the org and use [THIS LINK](https://classroom.github.com/a/Z8Df0XWP) to create a repo.
+
 In this assignment you will parallellize the training of a classifier. I provide two datasets:
 * `spam.csv` [from UCI ML](https://archive.ics.uci.edu/ml/datasets/spambase) describes a collection of emails marked as spam or not (labelled 1 or 0). You want to predict whether an email is spam or not. The predictors (or features) in these data are things such as how often a certain word appears &c. This is a smallish dataset.
 * `creditfraud.csv` [from kaggle](https://www.kaggle.com/dalpozz/creditcardfraud) describes credit card transactions, some of which are fraudulent (labelled 1 or 0). You want to detect fraudulent transactions. The features are nondescript for privacy reasons. This dataset is considerably larger.
